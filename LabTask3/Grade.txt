@@ -1,0 +1,23 @@
+jdic322 5.2
+John Dickman
+
+
+file: kangaroos.c
+gcc -Wall  kangaroos.c -o kangaroos
+running program: kangaroos
+passed test case 1!
+passed test case 2!
+Make sure to format your output
+Use constants
+
+
+
+file: scuba.c
+gcc -Wall  scuba.c -o scuba
+running program: scuba
+passed test case 1!
+passed test case 2!
+awesome job!
+-0.3 you should use functions to calculate the various values
+
+Your group function is essentially brute force. You should be doing arithmetic by adding 'A'
