@@ -1,0 +1,1 @@
+Write a C program that takes two strings as input. Then take the first string and delete each character that appears in the second string. As output the program needs to write the edited first string to the stdout (5.5%).
