@@ -1,0 +1,9 @@
+Command: grep -E "^ *int +[^#]+;" GrepExInts 
+Results:
+    int aDog;
+int   aDog  ;
+    int BadDog;
+    int aDog,aCat;
+    int   aSpaceDog,   aSpaceCat;
+    int aDog, aBadCat;
+int internetName; // fooo
