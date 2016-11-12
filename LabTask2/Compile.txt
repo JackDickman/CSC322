@@ -1,0 +1,3 @@
+cp ~csc322/Ticker.c ./
+chmod u+x Ticker.c
+gcc Ticker.c -o Ticker
