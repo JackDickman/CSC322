@@ -1,0 +1,5 @@
+grep -l int *
+     This command looks through each line of all elements of the current directory and prints the files that contain int or that the element of the directory is a subdirectory not a file
+
+wc * | grep -l int
+   This command uses the output of wc * as input for grep -l int. This command only prints the elements of the current directory that are subdirectories because the wc command doesn't work on them. It does not print the files that contain int because the output from wc * doesn't work properly when used as input for grep -l int.
