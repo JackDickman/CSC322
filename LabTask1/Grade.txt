@@ -1,0 +1,9 @@
+jdic322 4.8
+John Dickman
+
+MyPipe.txt
+-0.1 should be ls -A
+rename.sh
+-0.1 didn't check if the file exists (-f $File)
+GetMyStuff.sh
+-0.5 you weren't supposed to just echo your MyStuff.txt. You had to write the commands in a script (i.e. id -u and so on)
