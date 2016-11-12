@@ -1,0 +1,1 @@
+head -12 csc.txt | tail -n 8 | grep "C[s,S][c,C][0-9][0-9][0-9][^M]"
