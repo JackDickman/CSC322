@@ -1,0 +1,6 @@
+User ID: 18801(jdic322)
+Primary Group ID: 15(user)
+Groups Belong To: 15(user)
+Absolute Path Of tcsh Shell: /bin/tcsh
+Absolute Path Of Home Directory: /home/ugrad/jdic322
+PATH Environment Variable: /usr/lib64/qt-3.3/bin:/home/ugrad/jdic322/perl5/bin:/usr/local/bin:/usr/bin:/usr/local/sbin:/usr/sbin:/home/ugrad/jdic322/bin
