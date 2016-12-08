@@ -64,7 +64,7 @@ AnimalType inputType(String type) {
   } else if(!strcmp(type, "bird")) {
     return fish;
   } else if(!strcmp(type, "fish")) {
-    return fish;
+    return bird;
   } else {
     perror("exiting... invalid animal type");
   }
