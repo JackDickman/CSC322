@@ -62,9 +62,9 @@ AnimalType inputType(String type) {
   } else if(!strcmp(type, "insect")) {
     return insect;
   } else if(!strcmp(type, "bird")) {
-    return fish;
-  } else if(!strcmp(type, "fish")) {
     return bird;
+  } else if(!strcmp(type, "fish")) {
+    return fish;
   } else {
     perror("exiting... invalid animal type");
   }
